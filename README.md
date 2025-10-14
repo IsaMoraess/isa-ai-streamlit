@@ -25,9 +25,13 @@ ISA AI é uma aplicação interativa construída com **Streamlit**, que simula u
 isa-ai-streamlit/
 │
 ├── Isa_assistente.py # Código principal da aplicação
+
 ├── requer.txt # Dependências do projeto
+
 ├── LEIAME.txt # Instruções de execução (ambiente)
+
 └── README.md # (Você irá adicionar este arquivo)
+
 
 ---
 
